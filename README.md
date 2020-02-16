@@ -12,6 +12,8 @@ Video: https://youtu.be/T66y83lF-xg
 
 More info at http://efektalab.com/theink52840 (still not working)
 
+---
+
 ### Components (BOM):
 
 SW1, SW2 Buttons clocks cm 2 pcs.
