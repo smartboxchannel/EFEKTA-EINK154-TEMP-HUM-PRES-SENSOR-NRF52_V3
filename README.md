@@ -10,7 +10,7 @@ Yandex Money: 4100140180242
 
 Video: https://youtu.be/T66y83lF-xg
 
-More info at http://efektalab.com/theink52840 (still not working)
+More info at http://efektalab.com/eink154 (still not working)
 
 ---
 
