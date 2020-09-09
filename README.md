@@ -2,9 +2,9 @@
 
 Temperature and humidity sensor with 1.54 e-ink display.
 
-#### Donate me :)
+#### Donate me, ..I will make more and faster open devices :)
 
-PayPal: altigraph@yandex.com
+PayPal: altigraph@ya.ru
 
 Yandex Money: 4100140180242
 
