@@ -984,22 +984,22 @@ void reportTimeInk() {
   DrawImageWH(&epd, &paint, 30, 70, REP_TIME_RU, 90, 150, colorPrint, ROTATE_270);
 #endif
 #ifdef LANG_ESP
-  DrawImageWH(&epd, &paint, 30, 70, REP_TIME_ESP, 70, 150, colorPrint, ROTATE_270);
+  DrawImageWH(&epd, &paint, 30, 70, REP_TIME_ESP, 90, 150, colorPrint, ROTATE_270);
 #endif
 #ifdef LANG_DE
-  DrawImageWH(&epd, &paint, 30, 70, REP_TIME_DE, 70, 150, colorPrint, ROTATE_270);
+  DrawImageWH(&epd, &paint, 30, 70, REP_TIME_DE, 90, 150, colorPrint, ROTATE_270);
 #endif
 #ifdef LANG_FR
-  DrawImageWH(&epd, &paint, 30, 70, REP_TIME_FR, 70, 150, colorPrint, ROTATE_270);
+  DrawImageWH(&epd, &paint, 30, 70, REP_TIME_FR, 90, 150, colorPrint, ROTATE_270);
 #endif
 #ifdef LANG_HI
-  DrawImageWH(&epd, &paint, 30, 70, REP_TIME_HI, 70, 150, colorPrint, ROTATE_270);
+  DrawImageWH(&epd, &paint, 30, 70, REP_TIME_HI, 90, 150, colorPrint, ROTATE_270);
 #endif
 #ifdef LANG_ZHO
-  DrawImageWH(&epd, &paint, 30, 70, REP_TIME_ZHO, 70, 150, colorPrint, ROTATE_270);
+  DrawImageWH(&epd, &paint, 30, 70, REP_TIME_ZHO, 90, 150, colorPrint, ROTATE_270);
 #endif
 #ifdef LANG_EN
-  DrawImageWH(&epd, &paint, 30, 70, REP_TIME_ENG, 70, 150, colorPrint, ROTATE_270);
+  DrawImageWH(&epd, &paint, 30, 70, REP_TIME_ENG, 90, 150, colorPrint, ROTATE_270);
 #endif
 
   if (timeSend >= 10) {
@@ -1128,22 +1128,22 @@ void reportBattInk() {
   DrawImageWH(&epd, &paint, 30, 70, REP_BATT_RU, 90, 150, colorPrint, ROTATE_270);
 #endif
 #ifdef LANG_ESP
-  DrawImageWH(&epd, &paint, 30, 70, REP_BATT_ESP, 70, 150, colorPrint, ROTATE_270);
+  DrawImageWH(&epd, &paint, 30, 70, REP_BATT_ESP, 90, 150, colorPrint, ROTATE_270);
 #endif
 #ifdef LANG_DE
-  DrawImageWH(&epd, &paint, 30, 70, REP_BATT_DE, 70, 150, colorPrint, ROTATE_270);
+  DrawImageWH(&epd, &paint, 30, 70, REP_BATT_DE, 90, 150, colorPrint, ROTATE_270);
 #endif
 #ifdef LANG_FR
-  DrawImageWH(&epd, &paint, 30, 70, REP_BATT_FR, 70, 150, colorPrint, ROTATE_270);
+  DrawImageWH(&epd, &paint, 30, 70, REP_BATT_FR, 90, 150, colorPrint, ROTATE_270);
 #endif
 #ifdef LANG_HI
-  DrawImageWH(&epd, &paint, 30, 70, REP_BATT_HI, 70, 150, colorPrint, ROTATE_270);
+  DrawImageWH(&epd, &paint, 30, 70, REP_BATT_HI, 90, 150, colorPrint, ROTATE_270);
 #endif
 #ifdef LANG_ZHO
-  DrawImageWH(&epd, &paint, 30, 70, REP_BATT_ZHO, 70, 150, colorPrint, ROTATE_270);
+  DrawImageWH(&epd, &paint, 30, 70, REP_BATT_ZHO, 90, 150, colorPrint, ROTATE_270);
 #endif
 #ifdef LANG_EN
-  DrawImageWH(&epd, &paint, 30, 70, REP_BATT_ENG, 70, 150, colorPrint, ROTATE_270);
+  DrawImageWH(&epd, &paint, 30, 70, REP_BATT_ENG, 90, 150, colorPrint, ROTATE_270);
 #endif
 
   if (battSend >= 10) {
