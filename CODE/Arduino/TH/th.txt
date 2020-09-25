@@ -1,0 +1,3 @@
+sht20,sht21
+si7020, si7021
+htu20d, htu21d
