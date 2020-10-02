@@ -12,6 +12,10 @@ WebMoney: Z722291985192, X133903637383, R494367503336
 
 Bitcoin: bc1q3prwstl54j3a5j58esepfkyrqfjn0ydr8p3vc7
 
+Also you can buy:
+
+fully assembled - $49.5
+
 Video: https://youtu.be/T66y83lF-xg
 
 More info at http://efektalab.com/eink154 
