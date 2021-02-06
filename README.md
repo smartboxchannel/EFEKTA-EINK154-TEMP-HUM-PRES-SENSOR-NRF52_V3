@@ -2,19 +2,7 @@
 
 Temperature and humidity sensor with 1.54 e-ink display.
 
-#### Donate me, ..I will make more and faster open devices :)
-
-VISA: 4048415000506242
-
-PayPal: altigraph@ya.ru
-
-Yandex Money: 4100140180242
-
-WebMoney: Z722291985192, X133903637383, R494367503336
-
-Bitcoin: bc1q4ejf52gfk0p6z8qahq3f7qz9jpm3lmjq9c7rcr
-
-Also you can buy:
+#### Don't donate to me, it doesn't work in this world: https://paypal.me/efektalab , just buy:
 
 fully assembled - $45.5
 
