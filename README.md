@@ -1,5 +1,9 @@
 # EFEKTA-EINK154-TEMP-HUM-PRESS-SENSOR-NRF52
 
+Телеграм чат DIY Devices - https://t.me/diy_devices
+
+Продажа DIY Устройств - https://t.me/diydevmart
+
 Temperature and humidity sensor with 1.54 e-ink display.
 
 #### Don't donate to me, it doesn't work in this world: https://paypal.me/efektalab , just buy:
